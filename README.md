@@ -79,6 +79,7 @@ Every repo below has a `make demo` that runs end-to-end **offline**, with bundle
 ### Contact
 
 - **Email** — <a href="mailto:gokhanagarer@gmail.com">gokhanagarer@gmail.com</a>
+- **LinkedIn** — <a href="https://www.linkedin.com/in/gokhanagarer/">linkedin.com/in/gokhanagarer</a>
 - **Location** — Berlin · open to remote (EU / UK) and on-site Berlin
 - **Languages** — English (C2) · Turkish (native) · German (A2)
 
